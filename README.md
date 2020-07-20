@@ -6,3 +6,6 @@ I'm a full-time Software Engineer with a background in Biomedical Engineering an
 I love to work on iOS apps and macOS projects on my free-time. During the day, I do most of my development in Laravel (which is awesome, by the way)! While my favorite language is probably Swift, Python and PHP both hold special places in my heart.
 
 If you want to contact me, please use my personal company's contact form to get in touch! https://moballo.com/contact-us/
+
+
+[<img alt="Check me out on Linkedin" src="Linkedin.png" height="30">](https://www.linkedin.com/in/jasonmorcos/)
