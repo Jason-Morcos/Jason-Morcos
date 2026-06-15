@@ -5,7 +5,7 @@ I'm a full-time VP of Engineering and Information Security Officer with a backgr
 
 During the day, I work the most with Laravel (which is awesome, by the way)! Outside of work, I love to work on iOS apps and macOS projects. While my favorite language is probably Swift, Python and PHP both hold special places in my heart.
 
-If you want to contact me, please use my personal company's contact form to get in touch! https://moballo.com/contact-us/
+If you want to contact me, please use my contact form to get in touch! [[https://moballo.com/contact-us/](https://jason.morcos.us/#contact)](https://jason.morcos.us/#contact)
 
 
 [<img alt="Check me out on Linkedin" src="https://github.com/Linkedin.png" height="30">](https://www.linkedin.com/in/jasonmorcos/)
